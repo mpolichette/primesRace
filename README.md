@@ -1,0 +1,2 @@
+# primesRace
+A cheating algorithm
